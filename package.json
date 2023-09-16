@@ -1,6 +1,6 @@
 {
   "name": "tkt-cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Tkt Cli",
   "author": "Robert Bornschein @rbrtbrnschn",
   "bin": {
