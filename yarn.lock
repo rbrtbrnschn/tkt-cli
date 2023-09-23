@@ -749,7 +749,7 @@
     supports-color "^8.1.1"
     tslib "^2"
 
-"@oclif/core@^2", "@oclif/core@^2.11.10", "@oclif/core@^2.11.4", "@oclif/core@^2.15.0", "@oclif/core@^2.9.3":
+"@oclif/core@^2", "@oclif/core@^2.11.4", "@oclif/core@^2.15.0", "@oclif/core@^2.9.3":
   version "2.15.0"
   resolved "https://registry.yarnpkg.com/@oclif/core/-/core-2.15.0.tgz#f27797b30a77d13279fba88c1698fc34a0bd0d2a"
   integrity sha512-fNEMG5DzJHhYmI3MgpByTvltBOMyFcnRIUMxbiz2ai8rhaYgaTHMG3Q38HcosfIvtw9nCjxpcQtC8MN8QtVCcA==
@@ -799,12 +799,12 @@
     "@oclif/core" "^2.9.3"
     fast-levenshtein "^3.0.0"
 
-"@oclif/plugin-plugins@^3.5.0":
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/@oclif/plugin-plugins/-/plugin-plugins-3.5.0.tgz#48f4ec8d17bd3c76e87da581e40ef8f05b03817d"
-  integrity sha512-eE1P5jaFLLAeJvs2ilnGIHbxlhr7Z+3qgn/2uQoAGyozbSltAVkRRQ0LGPrGsqiwdgpgSpR2fPcvaskFanKfyA==
+"@oclif/plugin-plugins@^3.8.0":
+  version "3.8.0"
+  resolved "https://registry.yarnpkg.com/@oclif/plugin-plugins/-/plugin-plugins-3.8.0.tgz#d83ad5fb1a1c37864b23dfd1f1180d5d4ba9e5a7"
+  integrity sha512-yQ+M0REyP7DeCQQ4j4TDYV2bu0wy66tJzrO/ZN/ZHbwdzcyM3JmfQsqo9rBSXDJZf6FU2xL9P2+Gfj2VpG7qMw==
   dependencies:
-    "@oclif/core" "^2.11.10"
+    "@oclif/core" "^2.15.0"
     chalk "^4.1.2"
     debug "^4.3.4"
     http-call "^5.2.2"
